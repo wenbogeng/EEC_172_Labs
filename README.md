@@ -1,2 +1,2 @@
 # EEC_172_Labs
- Embedded Systems <!-- Spring 2021 -->
+ Embedded Systems Spring 2021
